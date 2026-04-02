@@ -1,12 +1,10 @@
 # 3D Portfolio (React + Vite)
 
+<img width="800" height="884" alt="Screenshot 2026-04-02 200337" src="https://github.com/user-attachments/assets/0d2c7fe4-83af-4ebb-bfd4-b5477a420aee" />
 
-<img width="400" height="400" alt="Screenshot 2026-04-02 200402" src="https://github.com/user-attachments/assets/f8eee5a4-5ff8-4c2c-9c4f-a9a13fe9400d" />
+<img width="800" height="800" alt="Screenshot 2026-04-02 200402" src="https://github.com/user-attachments/assets/f8eee5a4-5ff8-4c2c-9c4f-a9a13fe9400d" />
 
-
-Portofolio 3D interaktif menggunakan React 19 + Vite + Three.js via @react-three/fiber.<img width="200" height="200" alt="Screenshot 2026-04-01 191610" margin:auto display:block src="https://github.com/user-attachments/assets/a0dfb351-775f-48f6-9ed4-edc985e75b77" />
-
-<img width="400" height="400" alt="Screenshot 2026-04-02 200337" src="https://github.com/user-attachments/assets/1a3549f1-3661-43f5-a89b-897330c39f45" />
+<img width="800" height="800" alt="Screenshot 2026-04-02 200337" src="https://github.com/user-attachments/assets/1a3549f1-3661-43f5-a89b-897330c39f45" />
 ## 💡 Fitur Utama
 
 - Hero section dengan model 3D (Room + UI animasi)
