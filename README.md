@@ -1,6 +1,7 @@
 # 3D Portfolio (React + Vite)
+<img width="1000" height="1073" alt="Screenshot 2026-04-02 200313" src="https://github.com/user-attachments/assets/22e06425-4857-4b6e-aceb-637c7096565b" />
 
-<img width="800" height="884" alt="Screenshot 2026-04-02 200337" src="https://github.com/user-attachments/assets/0d2c7fe4-83af-4ebb-bfd4-b5477a420aee" />
+
 
 <img width="800" height="800" alt="Screenshot 2026-04-02 200402" src="https://github.com/user-attachments/assets/f8eee5a4-5ff8-4c2c-9c4f-a9a13fe9400d" />
 
